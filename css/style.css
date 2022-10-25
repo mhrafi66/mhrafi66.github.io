@@ -273,7 +273,7 @@ about section
     width: 56%;
     height: 700px;
     float: right;
-    border-left: 600px solid white;
+    border-left: 400px solid white;
     border-top: 700px solid transparent;
     background-image: url(../images/bg-about2-Copy.jpg);
 
@@ -688,7 +688,6 @@ navigation section
 .navbar {
     padding: 20px 0;
     transition: all .5s ease-in-out;
-    
 }
 
 .navbar-top-custom {
