@@ -85,7 +85,7 @@ h3 {
 }
 
 #home-btn {
-    margin-top: 10vw;
+    margin-top: 5vw;
     margin-bottom: 50vw;
     
 }
@@ -105,6 +105,9 @@ h3 {
 .contact-item-icon .fa-facebook{
     color: #fff;
     
+}
+.contact-item-icon .fa-registered{
+    color: #fff;
 }
 .contact-item-icon .fa-linkedin{
     color: #fff;
